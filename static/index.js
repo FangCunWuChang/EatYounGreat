@@ -343,7 +343,7 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '建议就是播放Rigel二周年提升战斗力';
+    if (score <= 49) return '建议就是播放格里特新曲提升战斗力';
     if (score <= 99) return '基本有些阳痿了';
     if (score <= 149) return '这下' + score + '了';
     if (score <= 199) return '基本目前高阶人群了';

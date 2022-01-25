@@ -2,9 +2,9 @@
 <html>
 
 <head>
-  <title>吃掉小鹿乃-排行榜</title>
+  <title>吃掉格里特-排行榜</title>
   <meta item="description" content="来看神仙" />
-  <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
+  <meta itemprop="image" content="http://p1.music.126.net/uBmgroA0P23wPRPKSlVWKw==/109951166672412429.jpg" />
   <meta charset="utf-8" />
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
